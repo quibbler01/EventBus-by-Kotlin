@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "EventBus"
 include ':EventBus'
+include ':EventBus-Android'
